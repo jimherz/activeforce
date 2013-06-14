@@ -32,7 +32,6 @@ GEM
       multi_json (~> 1.0)
     akami (1.0.0)
       gyoku (>= 0.4.0)
-    american_date (1.1.0)
     arel (2.2.1)
     bcrypt-ruby (3.0.1)
     blockenspiel (0.4.3)
@@ -115,7 +114,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  american_date
   blockenspiel
   bundler
   fastercsv
